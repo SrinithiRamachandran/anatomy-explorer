@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anatomy_explorer/static/css/main.7655b36c.css",
+    "main.js": "/anatomy_explorer/static/js/main.d056bd03.js",
+    "static/media/home-bg.jpg": "/anatomy_explorer/static/media/home-bg.263b64818a66612c9ef4.jpg",
+    "static/media/funfacts-bg.jpg": "/anatomy_explorer/static/media/funfacts-bg.d074b817b8676b825f6f.jpg",
+    "index.html": "/anatomy_explorer/index.html",
+    "main.7655b36c.css.map": "/anatomy_explorer/static/css/main.7655b36c.css.map",
+    "main.d056bd03.js.map": "/anatomy_explorer/static/js/main.d056bd03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7655b36c.css",
+    "static/js/main.d056bd03.js"
+  ]
+}
